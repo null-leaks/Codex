@@ -1,7 +1,9 @@
-# Welcome  codex
+# Welcome puter codex
 **is not connected to open ai`s gpt or what so ever**
 
-Onspace AI empowers anyone to turn ideas into powerful AI applications in minutes—no coding required. Our free, no-code platform enables effortless creation of custom AI apps; simply describe your vision and our agentic AI handles the rest. The onspace-app, built with React Native and Expo, demonstrates this capability—integrating popular third-party libraries to deliver seamless cross-platform performance across iOS, Android, and Web environments.
+``builded 
+onspace ai 50
+our team 50 ``
 
 ## Getting Started
 
@@ -69,8 +71,10 @@ For a full list of dependencies, see [package.json](./package.json).
 
 ## License
 
-This project is private ("private": true). For collaboration inquiries, please contact the author.
+This project is open sorce. For collaboration inquiries, please contact the author.
 
+---
+discord: mct_bg.
 ---
 
 Feel free to add project screenshots, API documentation, feature descriptions, or any other information as needed.
